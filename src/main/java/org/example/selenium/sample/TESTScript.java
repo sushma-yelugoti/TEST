@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class TESTScript {
 
-	static String DRIVER_NAME="webdriver.chrome.driver";
+	static String  DRIVER_NAME="webdriver.chrome.driver";
 	static String CHROME_PATH="/Users/sivajiyelugoti/workspace/selenium_docker/src/main/resources/chromedriver";
 
 
