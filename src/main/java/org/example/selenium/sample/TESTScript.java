@@ -13,6 +13,7 @@ public class TESTScript {
 	public static void main(String[] args) {
 
 		try {
+
 			System.setProperty(DRIVER_NAME,CHROME_PATH);
 
 			WebDriver driver = new ChromeDriver();
